@@ -21,7 +21,7 @@ Entre mis principales soft skills destacan mi capacidad para comunicarme eficien
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/maría sol benevent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maría sol benevent" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mar%C3%ADa-sol-benevent-4365981b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maría sol benevent" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
