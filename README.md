@@ -3,12 +3,17 @@
 
 <h1 align="center">Hola Mundo 👋, soy María Sol</h1>
 <h3 align="center">Una entusiasta por la programación desde Argentina</h3>
+<h4>¿Quién soy?</h4>
+<p>Desarrollada junior radicada en Argentina, con experiencia en desarrollo de aplicaciones web utilizando tecnologías en Javascript como React, CSS, Redux, Express, ORM’s como Sequelize y PostgreSQL. Cuento con un background que incluye el montaje de aplicaciones utilizando APIS externas y también construyendolas. Esta experiencia me ha ayudado a adquirir competencias como trabajar en equipo, analizar datos, errores  y otros aspectos importantes para el desarrollo de proyectos exitosos. 
+Enfocado en el desarrollo tanto del Front-end como del Back-end, poseo conocimientos en metodologías ágiles, GIT, estructuras de datos, algoritmos y frameworks CSS, entre otros conocimientos que he adquirido a lo largo de mi trayectoria. 
+Entre mis principales soft skills destacan mi capacidad para comunicarme eficientemente y trabajar en equipo, mi habilidad para resolver problemas de manera creativa y mi enfoque en la mejora continua del proceso de desarrollo. Además, me destaco por mi capacidad de adaptación a nuevos desafíos y mi pasión por aprender y mantenerme actualizado en las últimas tendencias tecnológicas. 
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solbenevent&label=Profile%20views&color=0e75b6&style=flat" alt="solbenevent" /> </p>
 
 - 🔭Actualmente estoy colaborando en el proyecto **Programmers Guru**
 
-- 🌱 Aprendiendo nuevas tecnologías y lenguajes como **React Nativ - Typescript**
+- 🌱 Aprendiendo nuevas tecnologías y lenguajes como **React Native - Typescript**
 
 - 💬 Preguntame sobre **Node js - React - Redux - Express - Sequelize - GIT - Trabajo en equipo**
 
