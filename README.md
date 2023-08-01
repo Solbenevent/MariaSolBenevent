@@ -1,4 +1,4 @@
-# MariaSolBenevent
+# Solbenevent
 ¡Hola! Si has llegado hasta aquí y quieres saber más sobre mí, te invito a evaluar mi ReadMe!
 
 <h1 align="center">Hola Mundo 👋, soy María Sol</h1>
